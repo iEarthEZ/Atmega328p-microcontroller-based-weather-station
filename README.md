@@ -19,4 +19,7 @@ This device directly shows the weather results in its oled screen without any tr
 |ATmega328P-PU PDIP-28 Microcontroller                             |the atmega microcontroller              |1       |4.91            |https://store.roboticsbd.com/development-boards/1215-atmega328p-pu-pdip-28-microcontroller-robotics-bangladesh.html|RoboticsBD |
 
 
+Please note: majority of the parts are from the websites of my country so its easier to get and cheaper for us!
+
+
 You can download the project files to edit the project as you like, maybe adding a new display, more sensors etc. I hope you like this project of mine and everything is straightforward as in the project files so you should be good on your own.
