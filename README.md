@@ -2,6 +2,7 @@
 a simple weather station using the atmega3280 microcontroller in kicad 10
 
 This project showcases a very simple weather station using the atmega microcontroller and DHT22 Digital Temperature Humidity Sensor and an SSD1306 1.3 inch 128X64 OLED LCD Display to show the status all powered by DC Power Socket Female PCB Mount DC-005 Barrel Connector 5.5x2.1mm.
+The atmega chip is u can say the brain of the thing that reads data from the sensor and shows it to the screen. the dht sensor can detect how cold or hot it is outside and the humidity level and the screen basically shows us that data. and lastly the barrel jack transfers power to the parts.
 
 
 The main motive behind this project was in my country the weather is kinda dynamic, by i mean few days ago it was blazing hot now its raining so i wanted to make something that has connection to the weather while being fun.
